@@ -1,1 +1,1 @@
-# data_science_exercises
+# hands-on-data-science
